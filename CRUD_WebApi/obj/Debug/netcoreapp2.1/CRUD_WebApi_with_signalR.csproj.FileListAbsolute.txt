@@ -1,0 +1,14 @@
+C:\Users\sanch\source\repos\CRUD_WebApi_With_SignalR\CRUD_WebApi\bin\Debug\netcoreapp2.1\CRUD_WebApi_with_signalR.deps.json
+C:\Users\sanch\source\repos\CRUD_WebApi_With_SignalR\CRUD_WebApi\bin\Debug\netcoreapp2.1\CRUD_WebApi_with_signalR.runtimeconfig.json
+C:\Users\sanch\source\repos\CRUD_WebApi_With_SignalR\CRUD_WebApi\bin\Debug\netcoreapp2.1\CRUD_WebApi_with_signalR.runtimeconfig.dev.json
+C:\Users\sanch\source\repos\CRUD_WebApi_With_SignalR\CRUD_WebApi\bin\Debug\netcoreapp2.1\CRUD_WebApi_with_signalR.dll
+C:\Users\sanch\source\repos\CRUD_WebApi_With_SignalR\CRUD_WebApi\obj\Debug\netcoreapp2.1\CRUD_WebApi_with_signalR.csprojAssemblyReference.cache
+C:\Users\sanch\source\repos\CRUD_WebApi_With_SignalR\CRUD_WebApi\obj\Debug\netcoreapp2.1\CRUD_WebApi_with_signalR.csproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\CRUD_WebApi_With_SignalR\CRUD_WebApi\obj\Debug\netcoreapp2.1\CRUD_WebApi_with_signalR.RazorAssemblyInfo.cache
+C:\Users\sanch\source\repos\CRUD_WebApi_With_SignalR\CRUD_WebApi\obj\Debug\netcoreapp2.1\CRUD_WebApi_with_signalR.RazorAssemblyInfo.cs
+C:\Users\sanch\source\repos\CRUD_WebApi_With_SignalR\CRUD_WebApi\obj\Debug\netcoreapp2.1\CRUD_WebApi_with_signalR.AssemblyInfoInputs.cache
+C:\Users\sanch\source\repos\CRUD_WebApi_With_SignalR\CRUD_WebApi\obj\Debug\netcoreapp2.1\CRUD_WebApi_with_signalR.AssemblyInfo.cs
+C:\Users\sanch\source\repos\CRUD_WebApi_With_SignalR\CRUD_WebApi\obj\Debug\netcoreapp2.1\CRUD_WebApi_with_signalR.RazorTargetAssemblyInfo.cache
+C:\Users\sanch\source\repos\CRUD_WebApi_With_SignalR\CRUD_WebApi\bin\Debug\netcoreapp2.1\CRUD_WebApi_with_signalR.pdb
+C:\Users\sanch\source\repos\CRUD_WebApi_With_SignalR\CRUD_WebApi\obj\Debug\netcoreapp2.1\CRUD_WebApi_with_signalR.dll
+C:\Users\sanch\source\repos\CRUD_WebApi_With_SignalR\CRUD_WebApi\obj\Debug\netcoreapp2.1\CRUD_WebApi_with_signalR.pdb

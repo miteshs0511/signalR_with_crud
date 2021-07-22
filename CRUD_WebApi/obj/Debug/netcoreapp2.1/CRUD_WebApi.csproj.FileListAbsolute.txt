@@ -1,0 +1,14 @@
+C:\Users\sanch\source\repos\CRUD_WebApi\CRUD_WebApi\bin\Debug\netcoreapp2.1\CRUD_WebApi.deps.json
+C:\Users\sanch\source\repos\CRUD_WebApi\CRUD_WebApi\bin\Debug\netcoreapp2.1\CRUD_WebApi.runtimeconfig.json
+C:\Users\sanch\source\repos\CRUD_WebApi\CRUD_WebApi\bin\Debug\netcoreapp2.1\CRUD_WebApi.runtimeconfig.dev.json
+C:\Users\sanch\source\repos\CRUD_WebApi\CRUD_WebApi\bin\Debug\netcoreapp2.1\CRUD_WebApi.dll
+C:\Users\sanch\source\repos\CRUD_WebApi\CRUD_WebApi\obj\Debug\netcoreapp2.1\CRUD_WebApi.csprojAssemblyReference.cache
+C:\Users\sanch\source\repos\CRUD_WebApi\CRUD_WebApi\obj\Debug\netcoreapp2.1\CRUD_WebApi.csproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\CRUD_WebApi\CRUD_WebApi\obj\Debug\netcoreapp2.1\CRUD_WebApi.RazorAssemblyInfo.cache
+C:\Users\sanch\source\repos\CRUD_WebApi\CRUD_WebApi\obj\Debug\netcoreapp2.1\CRUD_WebApi.RazorAssemblyInfo.cs
+C:\Users\sanch\source\repos\CRUD_WebApi\CRUD_WebApi\obj\Debug\netcoreapp2.1\CRUD_WebApi.AssemblyInfoInputs.cache
+C:\Users\sanch\source\repos\CRUD_WebApi\CRUD_WebApi\obj\Debug\netcoreapp2.1\CRUD_WebApi.AssemblyInfo.cs
+C:\Users\sanch\source\repos\CRUD_WebApi\CRUD_WebApi\obj\Debug\netcoreapp2.1\CRUD_WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\sanch\source\repos\CRUD_WebApi\CRUD_WebApi\bin\Debug\netcoreapp2.1\CRUD_WebApi.pdb
+C:\Users\sanch\source\repos\CRUD_WebApi\CRUD_WebApi\obj\Debug\netcoreapp2.1\CRUD_WebApi.dll
+C:\Users\sanch\source\repos\CRUD_WebApi\CRUD_WebApi\obj\Debug\netcoreapp2.1\CRUD_WebApi.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1585
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUD_WebApi_with_signalR", "CRUD_WebApi\CRUD_WebApi_with_signalR.csproj", "{9F79F5D4-9CD3-4297-A5C6-D9282F57825D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F79F5D4-9CD3-4297-A5C6-D9282F57825D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F79F5D4-9CD3-4297-A5C6-D9282F57825D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F79F5D4-9CD3-4297-A5C6-D9282F57825D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F79F5D4-9CD3-4297-A5C6-D9282F57825D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAE9FB2F-FA6B-4552-978A-C4BF037768F6}
+	EndGlobalSection
+EndGlobal
